@@ -3,6 +3,5 @@
 <h3 align="center">Infosec student, Open-Source enthusiast & Golang developer</h3>
 
 <p align="center">
-  <code><a href="https://www.linkedin.com/in/lucas-krell/" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code>  •  
-  <code><a href="mailto:lucaskrell@hotmail.fr" title="Mail me"><img width="22" src="mail.svg"> Mail</a></code>
+  <code><a href="https://www.linkedin.com/in/lucas-krell/" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code>
 </p>
