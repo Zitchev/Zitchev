@@ -6,7 +6,7 @@
 Large scale botnet network (over DNS, HTTP, SSH, IMAP, POP, ...) - central server and agent<br/>
 Virtual machine evading techniques<br/>
 Few CVE POC<br/>
-Many dynamic web applications
+Many web stuffs
 </h5>
 <p align="center"><code><a href="https://www.linkedin.com/in/lucas-k65874223/" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code></p>
 <pre align="center">         ,_---~~~~~----._         
