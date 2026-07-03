@@ -3,9 +3,10 @@
 <h6 align="center">Fellow Gopher</h6>
 <h5 align="center">Projects :</h5>
 <h6 align="center">
-Large scale botnet network (over DNS, HTTP, SSH, IMAP, POP, ...) - central server and agent<br/>
+Large scale botnet network (over DNS, HTTP, SSH, IMAP, POP, ...) - central server and agent, just ask for it<br/>
+HAM radio :)<br/>
 Virtual machine evading techniques<br/>
-Few CVE POC<br/>
+CVE POCs<br/>
 Many web stuffs
 </h5>
 <p align="center"><code><a href="https://www.linkedin.com/in/lucas-k65874223/" title="LinkedIn Profile"><img width="22" src="linkedin.svg"> LinkedIn</a></code></p>
